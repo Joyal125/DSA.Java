@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Joyal125/DSA.Java/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Joyal125/DSA.Java/tree/master/1013-fibonacci-number) |
 ## String
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Joyal125/DSA.Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Joyal125/DSA.Java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Joyal125/DSA.Java/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -49,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Joyal125/DSA.Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Joyal125/DSA.Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Joyal125/DSA.Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Joyal125/DSA.Java/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Joyal125/DSA.Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Joyal125/DSA.Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joyal125/DSA.Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Joyal125/DSA.Java/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
