@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Joyal125/DSA.Java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Joyal125/DSA.Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Joyal125/DSA.Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Joyal125/DSA.Java/tree/master/0322-coin-change) |
 ## Trie
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joyal125/DSA.Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Joyal125/DSA.Java/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Joyal125/DSA.Java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Joyal125/DSA.Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Joyal125/DSA.Java/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Joyal125/DSA.Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Joyal125/DSA.Java/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/Joyal125/DSA.Java/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
