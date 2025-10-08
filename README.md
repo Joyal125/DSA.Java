@@ -54,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joyal125/DSA.Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Joyal125/DSA.Java/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Joyal125/DSA.Java/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Joyal125/DSA.Java/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joyal125/DSA.Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Joyal125/DSA.Java/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/Joyal125/DSA.Java/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Joyal125/DSA.Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Joyal125/DSA.Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Joyal125/DSA.Java/tree/master/0242-valid-anagram) |
@@ -134,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Joyal125/DSA.Java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
