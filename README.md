@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Joyal125/DSA.Java/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Joyal125/DSA.Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Joyal125/DSA.Java/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Joyal125/DSA.Java/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Joyal125/DSA.Java/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Joyal125/DSA.Java/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Joyal125/DSA.Java/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Joyal125/DSA.Java/tree/master/0371-sum-of-two-integers) |
 ## Combinatorics
 |  |
