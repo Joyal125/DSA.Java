@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Joyal125/DSA.Java/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Joyal125/DSA.Java/tree/master/0322-coin-change) |
 ## Linked List
 |  |
@@ -166,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Joyal125/DSA.Java/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Joyal125/DSA.Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Joyal125/DSA.Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Joyal125/DSA.Java/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Joyal125/DSA.Java/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Joyal125/DSA.Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Joyal125/DSA.Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Joyal125/DSA.Java/tree/master/0572-subtree-of-another-tree) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Joyal125/DSA.Java/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Joyal125/DSA.Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Joyal125/DSA.Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Joyal125/DSA.Java/tree/master/0572-subtree-of-another-tree) |
