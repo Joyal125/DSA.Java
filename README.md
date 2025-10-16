@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Joyal125/DSA.Java/tree/master/0014-longest-common-prefix) |
+| [0091-decode-ways](https://github.com/Joyal125/DSA.Java/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Joyal125/DSA.Java/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Joyal125/DSA.Java/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Joyal125/DSA.Java/tree/master/0412-fizz-buzz) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Joyal125/DSA.Java/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Joyal125/DSA.Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Joyal125/DSA.Java/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Joyal125/DSA.Java/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joyal125/DSA.Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Joyal125/DSA.Java/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Joyal125/DSA.Java/tree/master/0152-maximum-product-subarray) |
