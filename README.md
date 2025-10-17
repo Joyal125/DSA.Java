@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Joyal125/DSA.Java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Joyal125/DSA.Java/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/Joyal125/DSA.Java/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Joyal125/DSA.Java/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Trie
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Joyal125/DSA.Java/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/Joyal125/DSA.Java/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Joyal125/DSA.Java/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
