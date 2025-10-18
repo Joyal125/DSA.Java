@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Joyal125/DSA.Java/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Joyal125/DSA.Java/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Joyal125/DSA.Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Joyal125/DSA.Java/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Joyal125/DSA.Java/tree/master/0371-sum-of-two-integers) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Joyal125/DSA.Java/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joyal125/DSA.Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Joyal125/DSA.Java/tree/master/0300-longest-increasing-subsequence) |
