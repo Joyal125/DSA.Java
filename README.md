@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Joyal125/DSA.Java/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Joyal125/DSA.Java/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Joyal125/DSA.Java/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Joyal125/DSA.Java/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joyal125/DSA.Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Joyal125/DSA.Java/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/Joyal125/DSA.Java/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Joyal125/DSA.Java/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Joyal125/DSA.Java/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
