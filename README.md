@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Joyal125/DSA.Java/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Joyal125/DSA.Java/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joyal125/DSA.Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Joyal125/DSA.Java/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Joyal125/DSA.Java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/0206-reverse-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/0908-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
