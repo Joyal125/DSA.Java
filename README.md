@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joyal125/DSA.Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Joyal125/DSA.Java/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Joyal125/DSA.Java/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Joyal125/DSA.Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joyal125/DSA.Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Joyal125/DSA.Java/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Joyal125/DSA.Java/tree/master/0198-house-robber) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Joyal125/DSA.Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Joyal125/DSA.Java/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Joyal125/DSA.Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joyal125/DSA.Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Joyal125/DSA.Java/tree/master/0300-longest-increasing-subsequence) |
