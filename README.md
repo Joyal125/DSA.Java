@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Joyal125/DSA.Java/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/Joyal125/DSA.Java/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Joyal125/DSA.Java/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Joyal125/DSA.Java/tree/master/0954-maximum-sum-circular-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Joyal125/DSA.Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Joyal125/DSA.Java/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Joyal125/DSA.Java/tree/master/0338-counting-bits) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Joyal125/DSA.Java/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Joyal125/DSA.Java/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Joyal125/DSA.Java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Joyal125/DSA.Java/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Joyal125/DSA.Java/tree/master/0347-top-k-frequent-elements) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Joyal125/DSA.Java/tree/master/0954-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -264,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Joyal125/DSA.Java/tree/master/0074-search-a-2d-matrix) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Joyal125/DSA.Java/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Joyal125/DSA.Java/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
