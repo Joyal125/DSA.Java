@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Joyal125/DSA.Java/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Joyal125/DSA.Java/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/Joyal125/DSA.Java/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Joyal125/DSA.Java/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Joyal125/DSA.Java/tree/master/0242-valid-anagram) |
