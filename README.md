@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Joyal125/DSA.Java/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joyal125/DSA.Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Joyal125/DSA.Java/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/Joyal125/DSA.Java/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Joyal125/DSA.Java/tree/master/0139-word-break) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Joyal125/DSA.Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joyal125/DSA.Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Joyal125/DSA.Java/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joyal125/DSA.Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Joyal125/DSA.Java/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Joyal125/DSA.Java/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Joyal125/DSA.Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joyal125/DSA.Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Joyal125/DSA.Java/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
