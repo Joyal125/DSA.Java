@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Joyal125/DSA.Java/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Joyal125/DSA.Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Joyal125/DSA.Java/tree/master/0954-maximum-sum-circular-subarray) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Joyal125/DSA.Java/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Joyal125/DSA.Java/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Joyal125/DSA.Java/tree/master/0347-top-k-frequent-elements) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Joyal125/DSA.Java/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Greedy
 |  |
 | ------- |
