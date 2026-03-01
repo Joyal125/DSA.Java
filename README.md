@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Joyal125/DSA.Java/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Joyal125/DSA.Java/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Joyal125/DSA.Java/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Joyal125/DSA.Java/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Joyal125/DSA.Java/tree/master/0338-counting-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Joyal125/DSA.Java/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Joyal125/DSA.Java/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Joyal125/DSA.Java/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Joyal125/DSA.Java/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Joyal125/DSA.Java/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Joyal125/DSA.Java/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Joyal125/DSA.Java/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
