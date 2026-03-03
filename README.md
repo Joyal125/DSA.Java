@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Joyal125/DSA.Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Joyal125/DSA.Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joyal125/DSA.Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Joyal125/DSA.Java/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Joyal125/DSA.Java/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/Joyal125/DSA.Java/tree/master/0441-arranging-coins) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Joyal125/DSA.Java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Joyal125/DSA.Java/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Joyal125/DSA.Java/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/Joyal125/DSA.Java/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Joyal125/DSA.Java/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Joyal125/DSA.Java/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Joyal125/DSA.Java/tree/master/0371-sum-of-two-integers) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Joyal125/DSA.Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Joyal125/DSA.Java/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Joyal125/DSA.Java/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Joyal125/DSA.Java/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Joyal125/DSA.Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Joyal125/DSA.Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Joyal125/DSA.Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Joyal125/DSA.Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Joyal125/DSA.Java/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Joyal125/DSA.Java/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Joyal125/DSA.Java/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Joyal125/DSA.Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Joyal125/DSA.Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Joyal125/DSA.Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
