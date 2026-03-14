@@ -2,16 +2,11 @@
 
 class Solution {
     int getSingle(int arr[]) {
-        
-        int result = 0;
-        
-        for(int arrs : arr){
-            
-            result ^= arrs;
+        int xor = 0;
+        for(int ele: arr){
+            xor = xor^ele;
         }
-        
-        return result;
-
+        return xor;
         
     }
 }
