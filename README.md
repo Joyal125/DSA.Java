@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Joyal125/DSA.Java/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Joyal125/DSA.Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
